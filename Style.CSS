@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    }
+ul{ 
+    display: flex;
+}
+LI{
+    padding: 20px;
+    list-style: none;
+    padding-top: 10px;
+    margin-top: 10px;     
+}
+main{
+    display: block;margin-left: 600px;
+    display: flex;justify-content: center;align-items: center;
+    text-align: center;
+    align-items: center;
+    p{
+        display: flex;
+        flex-direction: column;
+    }
+    }
+    
+    img{
+        border-radius: 50%;
+        width: 200px;
+        -webkit-filter: grayscale(100%);
+        
+    }
+  
+footer{
+    display: flex;
+    justify-content: center;
+    left: 10px;
+    margin: 10px;
+    column-gap: 10px;
+}  
+
